@@ -1,5 +1,5 @@
 # Tox Mod
-Tox Mod Discords newest moderation bot!, now featuring a dashboard, logging ,custom welcome messages, custom leave messages, auto roles, anti raid and more!
+Discords newest most efficient moderation bot!, now featuring a dashboard, logging ,custom welcome messages, custom leave messages, auto roles, anti raid and more!
 
 ---
 
