@@ -25,9 +25,9 @@
 ### Approved hosting locations
 - [My Github](https://github.com/TheRealToxicDev)  
 
-### NO OTHER WEBSITE MAY USE THESE WITHOUT EXPLICIT PERMISSION FROM THE BOT DEVELOPER
+### NO OTHER WEBSITE, DISCORD SERVER AND OR USER MAY USE THIS BOTS CODE WITHOUT EXPLICIT PERMISSION FROM THE BOT DEVELOPER
 
-#### If you wish to host this theme on your webpage, please contact me via Discord.
+#### If you wish to host this bot on your own, please contact me via Discord.
 ---
 **These terms apply to Tox Mod and the Tox Mod Project as a whole.**
 ---
